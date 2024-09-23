@@ -4,3 +4,10 @@
     align-items: center;
     text-align: center; /* This will center the text horizontally */
 }
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: left;
+    padding: 10px;
+}
