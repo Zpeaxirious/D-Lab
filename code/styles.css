@@ -1,0 +1,6 @@
+.contentContainment {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* This will center the text horizontally */
+}
